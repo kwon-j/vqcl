@@ -1,0 +1,16 @@
+.idea
+/wandb
+/output*
+/log
+/visualization
+data/train_anno.json
+data/val_anno.json
+cpt_best_prob.pth.tar
+extract_pulse/
+**/__pycache__/
+*.ipynb
+.ipynb_checkpoints/
+.vscode/
+test.py
+**.png
+checkpoints/*.pt*
